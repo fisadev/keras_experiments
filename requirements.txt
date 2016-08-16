@@ -1,0 +1,6 @@
+keras
+bokeh
+pandas
+sklearn
+h5py
+ipython[notebook]
